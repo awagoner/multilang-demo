@@ -1,0 +1,7 @@
+{
+  "name": "multilang-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Viktors Jenovs <jviktors@gmail.com>",
+  "license": "MIT"
+}
